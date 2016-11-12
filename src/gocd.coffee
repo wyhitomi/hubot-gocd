@@ -1,5 +1,5 @@
 # Description
-#   hubot script to control gocd
+#   Hubot-Script to allow GoCD control
 #
 # Configuration:
 #   LIST_OF_ENV_VARS_TO_SET

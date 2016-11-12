@@ -1,11 +1,11 @@
 {
   "name": "hubot-gocd",
-  "description": "hubot script to control gocd",
+  "description": "Hubot-Script to allow GoCD control",
   "version": "0.0.0",
   "author": "Wagner Hitomi <hyoshi84@gmail.com>",
   "license": "MIT",
 
-  "keywords": ["gocd","hubot-script","continuous-delivery"],
+  "keywords": ["hubot","gocd"],
 
   "repository": {
     "type": "git",

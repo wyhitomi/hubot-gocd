@@ -1,6 +1,6 @@
 # hubot-gocd
 
-hubot script to control gocd
+Hubot-Script to allow GoCD control
 
 See [`src/gocd.coffee`](src/gocd.coffee) for full documentation.
 
